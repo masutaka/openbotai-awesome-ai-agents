@@ -120,6 +120,9 @@ POC AI based Compiler, for converting english based markdown specs, into functio
 
 A developer assistant able to make whole nodejs project with unlimited prompts
 
+### [Giselle](https://github.com/giselles-ai/giselle)
+Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. Using a highly intuitive node-based interface, Giselle enables you to design and deploy powerful AI Agents by seamlessly integrating multiple LLMs and data sources.
+
 ### [Godmode](https://godmode.space/)
 A project inspired by Auto-GPT and BabyAGI, conducting  various kinds of tasks via nice UI
 
