@@ -88,6 +88,9 @@ An open-source autonomous AI framework to enable development and deployment auto
 
 
 
+### [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)
+Local stdio MCP payment tooling for AI agents: x402 offer inspection, bounded payment preparation, status and receipts; Apple Silicon macOS and Node 24 only. Not an autonomous agent or LLM.
+
 ### [AgentGPT](https://agentgpt.reworkd.ai/)
 A browser-based implementation of AutoGPT, accessible via a no-code platform
 

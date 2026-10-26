@@ -21,6 +21,9 @@
 ### 应用
 
 
+### [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)
+面向 AI Agent 的本地 stdio MCP 支付工具：检查 x402 报价、准备受限支付并查询状态和收据；仅支持 Apple Silicon macOS 和 Node 24，不是自主 Agent 或大模型。
+
 ### [AgentGPT](https://agentgpt.reworkd.ai/)
     一个无代码平台
 
